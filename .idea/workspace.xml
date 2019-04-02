@@ -1,11 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="46e958d4-82b9-49c1-95b3-31c5f06cbf9c" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/example/ios/.symlinks/plugins/wallet_sign/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/example/ios/.symlinks/plugins/wallet_sign/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/wallet_sign.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/wallet_sign.dart" afterDir="false" />
-    </list>
+    <list default="true" id="46e958d4-82b9-49c1-95b3-31c5f06cbf9c" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/.dart_tool/" />
     <ignored path="$PROJECT_DIR$/.idea/" />
     <ignored path="$PROJECT_DIR$/.pub/" />
@@ -106,12 +102,12 @@
       <option name="presentableId" value="Default" />
       <updated>1554168762369</updated>
       <workItem from="1554168772464" duration="55000" />
-      <workItem from="1554168862875" duration="82000" />
+      <workItem from="1554168862875" duration="697000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="137000" />
+    <option name="totallyTimeSpent" value="752000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1280" height="777" extended-state="0" />
