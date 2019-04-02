@@ -2,6 +2,10 @@
 # platform :ios, '9.0'
 
 # CocoaPods analytics sends network stats synchronously affecting flutter build latency.
+
+source 'http://172.28.6.24/ios_phenix/toon_pod_spec.git'
+source 'https://github.com/CocoaPods/Specs.git'
+
 ENV['COCOAPODS_DISABLE_STATS'] = 'true'
 
 project 'Runner', {
@@ -34,7 +38,8 @@ end
 
 target 'Runner' do
   use_frameworks!
-
+  
+  
   # Prepare symlinks folder. We use symlinks to avoid having Podfile.lock
   # referring to absolute paths on developers' machines.
   system('rm -rf .symlinks')

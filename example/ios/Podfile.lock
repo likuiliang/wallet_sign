@@ -1,11 +1,17 @@
 PODS:
   - Flutter (1.0.0)
+  - tokenBlock (0.1)
   - wallet_sign (0.0.1):
     - Flutter
+    - tokenBlock
 
 DEPENDENCIES:
   - Flutter (from `.symlinks/flutter/ios-release`)
   - wallet_sign (from `.symlinks/plugins/wallet_sign/ios`)
+
+SPEC REPOS:
+  http://172.28.6.24/ios_phenix/toon_pod_spec:
+    - tokenBlock
 
 EXTERNAL SOURCES:
   Flutter:
@@ -15,8 +21,9 @@ EXTERNAL SOURCES:
 
 SPEC CHECKSUMS:
   Flutter: 9d0fac939486c9aba2809b7982dfdbb47a7b0296
-  wallet_sign: c70810096452894a33fe9ca65b1fe1e098145ca5
+  tokenBlock: 71f99123f2d987fd607b6398fc6dbccdb7555065
+  wallet_sign: 9d0e4b90584fef1b7425a4874d2fc2cfbdf7b9a8
 
-PODFILE CHECKSUM: ebd43b443038e611b86ede96e613bd6033c49497
+PODFILE CHECKSUM: 321557523e2d6aedbd904fa3995df9d4764ef69e
 
 COCOAPODS: 1.5.3
