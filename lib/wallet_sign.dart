@@ -9,4 +9,9 @@ class WalletSign {
     final String version = await _channel.invokeMethod('getPlatformVersion');
     return version;
   }
+
+  static Future<String> get createWallet async {
+    final String address = await _channel.invokeMethod('createWallet');
+    return address;
+  }
 }
