@@ -1,0 +1,22 @@
+PODS:
+  - Flutter (1.0.0)
+  - wallet_sign (0.0.1):
+    - Flutter
+
+DEPENDENCIES:
+  - Flutter (from `.symlinks/flutter/ios-release`)
+  - wallet_sign (from `.symlinks/plugins/wallet_sign/ios`)
+
+EXTERNAL SOURCES:
+  Flutter:
+    :path: ".symlinks/flutter/ios-release"
+  wallet_sign:
+    :path: ".symlinks/plugins/wallet_sign/ios"
+
+SPEC CHECKSUMS:
+  Flutter: 9d0fac939486c9aba2809b7982dfdbb47a7b0296
+  wallet_sign: c70810096452894a33fe9ca65b1fe1e098145ca5
+
+PODFILE CHECKSUM: ebd43b443038e611b86ede96e613bd6033c49497
+
+COCOAPODS: 1.5.3
